@@ -1,6 +1,6 @@
 # Restful-booker API Test Automation
 
-[Restful-booker API](https://restful-booker.herokuapp.com/) is *an API playground created by Mark Winteringham for those wanting to learn more about API testing and tools*.
+[Restful-booker API](https://restful-booker.herokuapp.com/) .
 
 This project is my attempt to learn API test automation using **Java** and **REST Assured**.
 
